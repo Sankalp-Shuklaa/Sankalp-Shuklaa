@@ -97,15 +97,7 @@
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankalp-Shuklaa&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp-Shuklaa&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -117,13 +109,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sankalp-Shuklaa&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
