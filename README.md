@@ -20,32 +20,7 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class SankalpShukla {
 
-    String role = "Java Full Stack Developer";
-    String education = "MCA - Computer Science";
-    String university =
-        "Dr. Shakuntala Misra National Rehabilitation University";
-
-    String[] backend = {
-        "Java", "Spring Boot", "Spring Security",
-        "Hibernate", "REST APIs"
-    };
-
-    String[] frontend = {
-        "React.js", "HTML", "CSS", "JavaScript"
-    };
-
-    String[] databases = {
-        "MySQL", "MongoDB", "SQL Server"
-    };
-
-    String currentGoal =
-        "Become a Professional Software Engineer";
-
-}
-```
 
 - 🎓 MCA Student at **Dr. Shakuntala Misra National Rehabilitation University**
 - 💻 Java Full Stack Developer
