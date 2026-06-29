@@ -97,7 +97,9 @@
 
 ---
 
-
+<a href="https://sankalp-portfolio-sooty.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
@@ -109,7 +111,11 @@
 
 ---
 
-
+<p align="center">
+<a href="https://leetcode.com/u/sankalp/">
+<img src="https://img.shields.io/badge/LeetCode-23%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
 
 ---
 
@@ -152,12 +158,16 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sankalp2002shukla@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://sankalp-portfolio-sooty.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
