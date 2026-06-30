@@ -22,7 +22,7 @@
 
 
 
-- 🎓 MCA Student at **Dr. Shakuntala Misra National Rehabilitation University**
+- 🎓 Completed MCA from **Dr. Shakuntala Misra National Rehabilitation University**
 - 💻 Java Full Stack Developer
 - 🌱 Currently learning **Microservices & System Design**
 - 🔥 Passionate about scalable backend development
@@ -97,12 +97,6 @@
 
 ---
 
-<a href="https://sankalp-portfolio-sooty.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp-Shuklaa&theme=tokyonight"/>
@@ -129,12 +123,7 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sankalp-Shuklaa/Sankalp-Shuklaa/output/github-contribution-grid-snake.svg">
-</p>
----
 
 # 📜 Certifications
 
