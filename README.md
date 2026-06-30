@@ -131,12 +131,9 @@
 
 # 🐍 Contribution Snake Animation
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sankalp-Shuklaa/Sankalp-Shuklaa/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sankalp-Shuklaa/Sankalp-Shuklaa/output/github-contribution-grid-snake.svg">
+</p>
 ---
 
 # 📜 Certifications
